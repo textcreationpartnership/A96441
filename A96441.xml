@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No martial law, but advice for the grand inquests of London, and Middlesex, and may serve generally for the whole kingdome written by a London apprentice, on the behalfe of his fellow apprentices, 1648.</title>
+            <author>Whittington, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96441</idno>
+            <idno type="STC">Wing W2045A</idno>
+            <idno type="STC">ESTC R43949</idno>
+            <idno type="EEBO-CITATION">42476398</idno>
+            <idno type="OCLC">ocm 42476398</idno>
+            <idno type="VID">151448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151448)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2259:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>No martial law, but advice for the grand inquests of London, and Middlesex, and may serve generally for the whole kingdome written by a London apprentice, on the behalfe of his fellow apprentices, 1648.</title>
+                  <author>Whittington, John.</author>
+               </titleStmt>
+               <extent>[2], 6 p.  18 cm. </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 6: Per me John Whittington, neere Dowgate.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Martial law --  Great Britain.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151448:1" rendition="simple:additions"/>
+            <p>
+               <hi>No Martiall Law,</hi> BUT ADVICE For the Grand Inqueſts of London, and Middleſex, and may ſerve generally for the whole Kingdome.</p>
+            <p>Written by a London Apprentice, on the behalfe of his fellow Apprentices, 1648.</p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151448:2"/>
+            <pb n="1" facs="tcp:151448:2"/>
+            <head>No martiall Law, &amp;c.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Ife and Liberty are the fevorites of Law, of theſe the King cannot (without breach of his Oath) deprive the meaneſt Subject but by legall proceeding, which onely diſtinguiſh the lawfully executed Male<g ref="char:EOLhyphen"/>factor from the untimely murdered innocent.</p>
+            <p>So tender is the Law over every mans life, ſo ſtrict in preſervation of her owne rules, that if the Sheriffe be<g ref="char:EOLhyphen"/>heads him whom the Law condemned to bee hanged, tis<note place="margin">Stamf. plea, tit. felony, fo. 13.</note> murder in the Sheriffe, for the Sheriffe not perſuing the judgement and warrant of the Law, doth contrary to the Law, and thereby murders him whom he ſhould have ex<g ref="char:EOLhyphen"/>ecuted: And ſurely that Law that is ſo tender over thoſe, her owne hand markt out for death, as not worthy to live is zealous over ſuch as never tranſgreſſed her ſtatutes.</p>
+            <p>Offences deſerving death are many, and many the man<g ref="char:EOLhyphen"/>ners of death, differenced onely by the nature of the of<g ref="char:EOLhyphen"/>fence; yet for all offences, for all deaths there is but one tryall. <hi>viz<g ref="char:punc">▪</g>
+               </hi> By Peeres, according to <hi>Mag. Chart.</hi> the Sta<g ref="char:EOLhyphen"/>tutes of 5. <hi>Edw</hi> 3. and 28. <hi>Edw.</hi> 3.</p>
+            <p>
+               <hi>Mag. Chart.</hi> is that no man be impriſoned or diſeiſed of his Freehold or Libertys or Cuſtomes, or be outlawed, or exiled, or otherwiſe deſtroyed, nor wee will not paſſe upon him nor condemne him, but by lawfull judgement of his Peeres or Law of the Land.</p>
+            <p>5. <hi>Edw. 3. Cap.</hi> 9. is that no man ſhall be attached, nor forejudged of life or lym, contrary to the great Charter.</p>
+            <p>28. <hi>Edw. 3. cap.</hi> 3. is, no man ſhall bee impriſoned, nor put to death, without beeing brought to anſwer by due proceſſe of Law.</p>
+            <p>Theſe ſtatutes exclude all tryals, but by Peeres, as for
+<pb n="2" facs="tcp:151448:3"/> Barons to be tryed by Barons, Commoners by Commoners, which is our jury of twelve men, and Commoners can<g ref="char:EOLhyphen"/>not wave their Peeres, to be tryed by Barrons, nor Bar<g ref="char:EOLhyphen"/>rons theirs to bee tryed by Commoners, as was reſolved in the Caſe of my Lord <hi>Dances.</hi> Much leſſe may we wave<note place="margin">26. H. 8.</note> the Common Law tryalls to be tryed by Martiall law, for that were to conſent to ſelfe murder; for Sir <hi>Edw. Cooke</hi>
+               <note place="margin">Cooke 3 part of the Inſti<g ref="char:EOLunhyphen"/>tutes fol. 52.</note> ſaith, that if a Lieftenant, or any one that hath Commiſſi<g ref="char:EOLhyphen"/>on to execute Martiall law, put any man to death in time of peace, this is murder and againſt <hi>Mag. Chart.</hi>
+            </p>
+            <p>Times of peace with the ancient Romans were denoted by the ſhutting of <hi>Janus</hi> Temple. And with us by opening Weſtminſter hall, the Chancery, the Kings Bench, and Courts of juſtice: and therefore in the Caſe of <hi>Thomas</hi>
+               <note place="margin">4. E 3. 39. Ed. 3. 42. Ed. 3. numb. 13. Co. 2. part of the Inſtitutes fol. 48. Co. 3. part of Inſtit. fol. 52.</note> Earle of Lancaſter, who was taken in open Rebellion and put to death; in the Caſe of the Earle of Arrundell, <hi>John</hi> of <hi>Gaunt,</hi> and others, the proceedings were adjudged unlawfull becauſe by Martiall Law in time of peace, when the Chancery, the Kings Bench, and other the Kings Courts were open.</p>
+            <p>If theſe though Military men and guilty of Crimes, the Common Law would puniſh with death, might not bee condemned and executed by Martiall law when the Chan<g ref="char:EOLhyphen"/>cery, Kings Bench, and Courts of juſtice were open; how could wee then in London condemne and execute by Martiall law Mr. <hi>Tompkins</hi> a Gowneman, Mr. <hi>Challoner</hi> a Citizen while the Courts of juſtice were o<g ref="char:EOLhyphen"/>pen, a Parliament ſitting at Weſtminſter, a Goale deli<g ref="char:EOLhyphen"/>very in London? Nay while <hi>Mack Mahoon,</hi> and <hi>Mack Quier</hi> (Souldiers) were tryed at Weſtminſter by the Com<g ref="char:EOLhyphen"/>mon Law condemned, executed by the Common Law: But the reaſon is apparent, for theſe men were charged with Rebellion againſt the King, a crime that the Com<g ref="char:EOLhyphen"/>mon law doth puniſh with death; Mr. <hi>Tompkins</hi> and <hi>Challoner</hi> charged with what the Common law would juſtifie, not call a crime; yet becauſe policy (not juſtice) would that they ſhould dye, therefore the Martiall law
+<pb n="3" facs="tcp:151448:3"/> muſt hang whom the Common law would not.</p>
+            <p>And upon the ſame reaſon Sir <hi>John Hotham</hi> and his Son, though Parliament men, were (without breach of Privi<g ref="char:EOLhyphen"/>ledge) executed by Martiall law: Whereupon a Cavaleer ſaid wittily, that it was the beſt peece of bad juſtice hath beene done ſince the two houſes raigned; for when con<g ref="char:EOLhyphen"/>trary to law the Houſes had juſtified them in treaſon for keeping Hull from the King, it was but fit to hang them when they would not bee ſo honeſt as to reſtore Hull to the King: And here give mee leave (though with digreſſion) to obſerve to you what another obſer<g ref="char:EOLhyphen"/>ved to me upon their deaths: That as their firſt act being treaſon was by colour of Law yet againſt law juſtified as legall and they rewarded, ſo their ſecond fact being lawfull, was by colour of law yet againſt law, adjudged illegall, and they executed. And that their ſufferings might in juſtice bee referred to their firſt fact, on the ſame day the moneth they ſeverally entred Hull, on the ſame day the moneth they ſeverally dyed; for young <hi>Hotham</hi> outriding his Father firſt entred Hull, on new yeares day, 1641. But Sir <hi>John Hotham,</hi> whom age and ſix Wives had detarded, did not enter Hull untill the ſecond of <hi>January,</hi> 1641. and therefore on new yeares day 1644. young <hi>Hotham</hi> was beheaded, and Sir <hi>John Hotham</hi> not untill the ſecond of <hi>January, Juſtus es domine &amp; juſta ſunt judicia tua;</hi> but to returne. When theſe men ſuffered, there was ſome ſhaddow, ſome colour for Mar<g ref="char:EOLhyphen"/>tiall law: For then there was an oppoſite army on foot in the land, but now for theſe two yeares there hath been no Army, no enemy in the Land but the two Houſes, and their Army, all Courts of juſtice at Weſtminſter freely open, yet wee have ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fellow Subjects, ſome murdered, ſome impriſoned, others diſtreined, as <hi>Robert Arnoll</hi> of Collonell <hi>Lilbornes</hi> R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>giment executed, the fifteenth of <hi>November, 1647. William Tompſon</hi> taken from the Parlia<g ref="char:EOLhyphen"/>ment doore by Lieftenant Generall <hi>Cromwell,</hi> and by him committed to White hall, and after by Martiall law con<g ref="char:EOLhyphen"/>demned
+<pb n="4" facs="tcp:151448:4"/> to be ſhot to death. Mr. <hi>Pledwell</hi> in Fleetſtreete hath his goods deſtrained by Martial power, while the Chan<g ref="char:EOLhyphen"/>cery is open, the Kings Bench open; nay while the Parlia<g ref="char:EOLhyphen"/>ment ſits: that Parliament that condemned the Earle of <hi>Strafford,</hi> for ſentencing to death (not executing) by Mar<g ref="char:EOLhyphen"/>tiall law, the Lord <hi>Mount Norris</hi> for billetting Souldiers and taking diſtreſſes by Martiall law, &amp;c.</p>
+            <p>But beyond all theſe, is the Sabboth dayes worke, the ninth of <hi>Aprill,</hi> wherein the Lord Mayor and Commiſſio<g ref="char:EOLhyphen"/>ners for the Militia of London, out-acts all the illegallities of <hi>Strafford,</hi> all charged by Mr. <hi>Lilborne</hi> on Lieftenant Generall <hi>Cromwell,</hi> for the Lord <hi>Strafford</hi> put none to death, and while Mr. <hi>Cromwell</hi> a Martiall Officer doth but exe<g ref="char:EOLhyphen"/>cute Martiall law upon Military men for breach of Military orders; the Lord Mayor a Civill Officer, drawes out Mili<g ref="char:EOLhyphen"/>tary men, and power to execute a Civill not Military order, theſe doe not ſentence nor deſtraine, they kill their fellow Subjects; for while the Ordinance doth direct that ſuch as prophane the Lords day ſhould pay five ſhillings, if above fourteene yeares of age, if under, their friends twelve pence, theſe ſhoot and kill without diſtinction, children of nine or ten years of age, &amp; chooſe rather to commit murther on the Sabboth then permit children to play at Cat on the Lords day.</p>
+            <p>But to finde whether theſe proceedings (by millitary po<g ref="char:EOLhyphen"/>wer)<note place="margin">A breefe and perfect relati<g ref="char:EOLhyphen"/>on of the anſ. of the Earle of Straff. fol. 11. 12. Mr St. Johns Argument.</note> be actions of arbitrary, and tyrannicall government; examine, and compare them with the charges againſt the Lord <hi>Strafford,</hi> where the condemning the Lord <hi>Mount Norris</hi> by Marſhall Law, the billiting Souldiers upon Sub<g ref="char:EOLhyphen"/>jects againſt their will, and executing papar Orders by Marſhall Law in time of peace, is adjudged by this pre<g ref="char:EOLhyphen"/>ſent Parliament, a ſubvertion of our fundamentall Lawes, and an introducing of an Arbitrary, and Tyrannicall go<g ref="char:EOLhyphen"/>vernment; next if ye examine, and compare them with the rule and dictate of our ſetled and knowen Law (to which all military proceedings are oppoſite and diſtructive) and which if ye countenance, nay, if ye withſtand not, ye are
+<pb n="5" facs="tcp:151448:4"/> guilty of their paſt Facts, guilty of breaking the Proteſtation, the Solemn League &amp; Covenant with God to maintaine, and protect the Kings perſon, his honour and eſtate, the rights, priviledges, and liberties of the Subject; for all theſe are in the cuſtody of the Law, and if the Law be not preſerved all theſe are violated, the Law ſaid Mr. <hi>Pym</hi> puts the difference<note place="margin">Mr. Pym ſpeech againſt the Lord Straf.</note> between good and evill. juſt and unjuſt, our honours, lives, liberties, and eſtates are all in the keeping of the Law, with<g ref="char:EOLhyphen"/>out Law all men have a like property to every thing, and every man to nothing, for us therefore to execute, or per<g ref="char:EOLhyphen"/>mit to be executed, this Arbitrary, this Tyrannicall govern<g ref="char:EOLhyphen"/>ment of Marſhall Law, while the Chancery is open, the Kings Bench open, and others, the Courts of ju<g ref="char:EOLhyphen"/>ſtice open; we commit treaſon, murder, rapine, oppreſſion, perjury, for ſaith Mr. <hi>Pym,</hi> Arbitrary government compre<g ref="char:EOLhyphen"/>hends<note place="margin">Mr. Pym ſpeech againſt the Lord Straf.</note> all offences: Treaſon by ſubverting the Lawes, ſup<g ref="char:EOLhyphen"/>preſſing the old, and by force introducing a new govern<g ref="char:EOLhyphen"/>ment, nay, new Governours, Treaſon inforcing by Millita<g ref="char:EOLhyphen"/>ry<note place="margin">Mr. St John Argument of Law againſt Lord Straff.</note> powers, the Kings perſon from <hi>Holmby</hi> to <hi>New Market;</hi> Treaſon in detaining by Military power the Kings Perſon in priſon, and forcing papers or ought elſe from his Perſon, much more in aſſaulting his Perſon, and ſurely where his Perſon is thus indangered, his Crowne is not ſafe, his Ho<g ref="char:EOLhyphen"/>nour nor Eſtate preſerved, when by Martiall Law wee con<g ref="char:EOLhyphen"/>demne and execute any man that may be tryed by Common Law wee mur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her him: For although the offence deſerves death, yet dying by Martiall Law which is illegall, wee mur<g ref="char:EOLhyphen"/>ther him whom the Law would have hanged.</p>
+            <p>All free-quarter is Martiall oppeſſion, all plunder, all di<g ref="char:EOLhyphen"/>ſtreſſe by Souldiers, rapine and theft; all theſe againſt <hi>Mag<g ref="char:EOLhyphen"/>na Charta,</hi> againſt our Petition of Right, againſt our Prote<g ref="char:EOLhyphen"/>ſtation, againſt our ſelemne League and Covenant; becauſe againſt our Rights and Previledges.</p>
+            <p>You Gentlemen, are the eyes the eares, the tongues of the County to ſearch out, to heare and to informe the Courts of Iuſtice of theſe Treaſons, theſe Murders, theſe Rapines, theſe Thefts and Oppreſſions; if yee (Gentlemen) be ſi<g ref="char:EOLhyphen"/>lent
+<pb n="6" facs="tcp:151448:5"/> in theſe Crimes, yee make your ſelves not onely guilty of the paſt facts, but of the like in the future, for the impunity of the firſt invites the ſecond offence, which hath ſo multi<g ref="char:EOLhyphen"/>plyed theſe ſins upon our Nation that cuſtome hath almoſt made them lawfull: Let therefore your inquiry be ſpeedy and ſtrict, not pitying the poore, be he Common Souldier or Ap<g ref="char:EOLhyphen"/>prentiſe, nor ſparing the rich, be they the great Officers of the Army or Major or the Committee of Militia of the City, (who deſerve chiefely to be indited and executed for the late tumult) yours is onely the cognizance and preſentment of crimes, that done <hi>yee ſaved your owne ſoules;</hi> the reſolution and judgement of Law is the duty of the bench, which if the Iud<g ref="char:EOLhyphen"/>ges neglect, <hi>ſin is at their doore,</hi> Mercy is the Kings, and lodge onely in his boſome, and if any Rebel ſons follow <hi>Ahitophels</hi> advice and defile their Fathers Concubine, may they want what they pretend to give mercy, and in their flight meete with <hi>Abſalons</hi> Oake, and <hi>Joabs</hi> gentle dealing, while yee as faithfull ſervants to your <hi>David</hi> returne to your owne houſes, and ſit under your owne Vines and your owne Fig-trees.</p>
+            <byline>
+               <hi>Per me John Whittington,</hi> neere Dowgate.</byline>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151448:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
